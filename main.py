@@ -20,7 +20,7 @@ try:
     pt.click()
     time.sleep(1)
 
-    pt.write("shahnewazaziz2018@gmail.com")
+    pt.write("hasibul.rupok@gmail.com")
     currentPosition = pt.position()
     x, y = currentPosition
     pt.moveTo(screenSize[0]/2, screenSize[1]/2 - 70, duration=0.5)
